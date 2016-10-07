@@ -22,6 +22,11 @@ namespace ForGit
         {
 
         }
+
+        public void sleep()
+        {
+
+        }
     }
 
 }

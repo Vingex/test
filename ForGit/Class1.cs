@@ -8,6 +8,7 @@ namespace ForGit
 {
     class Class1
     {
-
+        int a;
+        int b;
     }
 }

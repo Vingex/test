@@ -32,6 +32,16 @@ namespace ForGit
         {
 
         }
+
+        public void kill()
+        {
+
+        }
+
+        public void study()
+        {
+
+        }
     }
 
 }

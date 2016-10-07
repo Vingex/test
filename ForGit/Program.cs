@@ -27,6 +27,11 @@ namespace ForGit
         {
 
         }
+
+        public void read()
+        {
+
+        }
     }
 
 }
